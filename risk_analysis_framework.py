@@ -4,7 +4,6 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from fuzzywuzzy import process
-from bs4 import BeautifulSoup
 import json
 import os
 
@@ -31,8 +30,21 @@ class RiskAnalysisFramework:
                     if len(cells) == 5:
                         id_val = await cells[0].inner_text()
                         name_val = await cells[1].inner_text()
-                        owner_val = await cells[2].inner_text()
-                        hash_val = await cells[3].inner_text()
+
+                        # Hover over the owner cell to get the tooltip
+                        owner_cell = cells[2]
+                        await owner_cell.hover()
+                        await page.wait_for_timeout(1000)  # Wait for the tooltip to appear
+                        owner_tooltip = await owner_cell.query_selector('.ant-tooltip-inner')
+                        owner_val = await owner_tooltip.inner_text() if owner_tooltip else "N/A"
+
+                        # Hover over the hash cell to get the tooltip
+                        hash_cell = cells[3]
+                        await hash_cell.hover()
+                        await page.wait_for_timeout(1000)  # Wait for the tooltip to appear
+                        hash_tooltip = await hash_cell.query_selector('.ant-tooltip-inner')
+                        hash_val = await hash_tooltip.inner_text() if hash_tooltip else "N/A"
+
                         entry = {
                             'id': id_val,
                             'name': name_val,
@@ -59,7 +71,7 @@ class RiskAnalysisFramework:
 
             # Load existing data from JSON file
             json_file_path = '/workspaces/olas_agents_risk_analysis/example_scrape_info/agent_status.json'
-            if os.path.exists(json_file_path):
+            if os.path.exists(json_file_path) and os.path.getsize(json_file_path) > 0:
                 with open(json_file_path, 'r') as file:
                     existing_data = json.load(file)
             else:
@@ -76,11 +88,12 @@ class RiskAnalysisFramework:
 
     def load_data(self):
         json_file_path = '/workspaces/olas_agents_risk_analysis/example_scrape_info/agent_status.json'
-        if os.path.exists(json_file_path):
+        if os.path.exists(json_file_path) and os.path.getsize(json_file_path) > 0:
             with open(json_file_path, 'r') as file:
                 self.entries = json.load(file)
         else:
-            st.warning("agent_status.json not found. Please scrape the agents first.")
+            self.entries = []
+            st.warning("agent_status.json not found or is empty. Please scrape the agents first.")
 
     def search_entries(self, query):
         st.info(f"Searching for agents matching: {query}")
@@ -127,3 +140,10 @@ class RiskAnalysisFramework:
         else:
             st.warning("No results found.")
 
+# Example usage in app.py
+# risk_framework = RiskAnalysisFramework()
+# risk_framework.load_data()
+# query = st.text_input("Search for an agent")
+# if st.button("Search"):
+#     results = risk_framework.search_entries(query)
+#     risk_framework.render_results(results)
