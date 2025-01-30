@@ -1,0 +1,10 @@
+playwright
+streamlit
+langchain-openai
+langchain
+langgraph
+beautifulsoup4
+fuzzywuzzy
+matplotlib
+plotly
+dash

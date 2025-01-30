@@ -1,0 +1,425 @@
+[
+    {
+        "id": "47",
+        "name": "eightballer/authenticated_proxy",
+        "owner": "0x52a1...9a780f\n\u00a0",
+        "hash": "0x459e...8b41d9",
+        "agent_url": "https://registry.olas.network/ethereum/agents/47",
+        "owner_link": "https://etherscan.io/address/0x52a1...9a780f",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x459e...8b41d9"
+    },
+    {
+        "id": "46",
+        "name": "askjimmy.xyz trading agent",
+        "owner": "0xe2e9...b2599b\n\u00a0",
+        "hash": "0x210e...9dcfaf",
+        "agent_url": "https://registry.olas.network/ethereum/agents/46",
+        "owner_link": "https://etherscan.io/address/0xe2e9...b2599b",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x210e...9dcfaf"
+    },
+    {
+        "id": "45",
+        "name": "askjimmy.xyz perp trading agent",
+        "owner": "0xe2e9...b2599b\n\u00a0",
+        "hash": "0xfe89...dec6fa",
+        "agent_url": "https://registry.olas.network/ethereum/agents/45",
+        "owner_link": "https://etherscan.io/address/0xe2e9...b2599b",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xfe89...dec6fa"
+    },
+    {
+        "id": "44",
+        "name": "eightballer/trader",
+        "owner": "0x7fb0...5ac47b\n\u00a0",
+        "hash": "0xffff...437c0c",
+        "agent_url": "https://registry.olas.network/ethereum/agents/44",
+        "owner_link": "https://etherscan.io/address/0x7fb0...5ac47b",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xffff...437c0c"
+    },
+    {
+        "id": "43",
+        "name": "dvilela/memeooorr",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0x9ece...fc8646",
+        "agent_url": "https://registry.olas.network/ethereum/agents/43",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x9ece...fc8646"
+    },
+    {
+        "id": "42",
+        "name": "coinfident/influencer_explorer_agent",
+        "owner": "0x0f7f...0aaea6\n\u00a0",
+        "hash": "0x5d40...e6c8f9",
+        "agent_url": "https://registry.olas.network/ethereum/agents/42",
+        "owner_link": "https://etherscan.io/address/0x0f7f...0aaea6",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x5d40...e6c8f9"
+    },
+    {
+        "id": "41",
+        "name": "valory/contribute",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0xe7c0...84567d",
+        "agent_url": "https://registry.olas.network/ethereum/agents/41",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xe7c0...84567d"
+    },
+    {
+        "id": "40",
+        "name": "valory/optimus",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0xb307...21d95b",
+        "agent_url": "https://registry.olas.network/ethereum/agents/40",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xb307...21d95b"
+    },
+    {
+        "id": "39",
+        "name": "Vera agent",
+        "owner": "0x0ddc...31d3f7\n\u00a0",
+        "hash": "0x5dda...0b0673",
+        "agent_url": "https://registry.olas.network/ethereum/agents/39",
+        "owner_link": "https://etherscan.io/address/0x0ddc...31d3f7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x5dda...0b0673"
+    },
+    {
+        "id": "38",
+        "name": "victorpolisetty/alprina_agent",
+        "owner": "0xee9b...305997\n\u00a0",
+        "hash": "0xe024...8f8805",
+        "agent_url": "https://registry.olas.network/ethereum/agents/38",
+        "owner_link": "https://etherscan.io/address/0xee9b...305997",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xe024...8f8805"
+    },
+    {
+        "id": "37",
+        "name": "valory/mech",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0xbf4d...36d99a",
+        "agent_url": "https://registry.olas.network/ethereum/agents/37",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xbf4d...36d99a"
+    },
+    {
+        "id": "36",
+        "name": "valory/mech",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0x919e...e6de47",
+        "agent_url": "https://registry.olas.network/ethereum/agents/36",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x919e...e6de47"
+    },
+    {
+        "id": "35",
+        "name": "jhehemann/researcher_agent",
+        "owner": "0x4a14...8591df\n\u00a0",
+        "hash": "0x85e6...3d5749",
+        "agent_url": "https://registry.olas.network/ethereum/agents/35",
+        "owner_link": "https://etherscan.io/address/0x4a14...8591df",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x85e6...3d5749"
+    },
+    {
+        "id": "34",
+        "name": "echo",
+        "owner": "0x9c29...e40360\n\u00a0",
+        "hash": "0x75ea...ecaa84",
+        "agent_url": "https://registry.olas.network/ethereum/agents/34",
+        "owner_link": "https://etherscan.io/address/0x9c29...e40360",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x75ea...ecaa84"
+    },
+    {
+        "id": "33",
+        "name": "eightballer/trader",
+        "owner": "0x7fb0...5ac47b\n\u00a0",
+        "hash": "0x405d...375036",
+        "agent_url": "https://registry.olas.network/ethereum/agents/33",
+        "owner_link": "https://etherscan.io/address/0x7fb0...5ac47b",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x405d...375036"
+    },
+    {
+        "id": "32",
+        "name": "Askjimmy.xyz Systematic Perp trading v1",
+        "owner": "0xe2e9...b2599b\n\u00a0",
+        "hash": "0xb7f5...26f1b7",
+        "agent_url": "https://registry.olas.network/ethereum/agents/32",
+        "owner_link": "https://etherscan.io/address/0xe2e9...b2599b",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xb7f5...26f1b7"
+    },
+    {
+        "id": "31",
+        "name": "eightballer/notification_agent",
+        "owner": "0x7fb0...5ac47b\n\u00a0",
+        "hash": "0x456f...6bbb79",
+        "agent_url": "https://registry.olas.network/ethereum/agents/31",
+        "owner_link": "https://etherscan.io/address/0x7fb0...5ac47b",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x456f...6bbb79"
+    },
+    {
+        "id": "30",
+        "name": "Tsunami Agent",
+        "owner": "0x0ddc...31d3f7\n\u00a0",
+        "hash": "0x9373...a7e563",
+        "agent_url": "https://registry.olas.network/ethereum/agents/30",
+        "owner_link": "https://etherscan.io/address/0x0ddc...31d3f7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x9373...a7e563"
+    },
+    {
+        "id": "29",
+        "name": "valory/mech",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0x2588...b0bb11",
+        "agent_url": "https://registry.olas.network/ethereum/agents/29",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x2588...b0bb11"
+    },
+    {
+        "id": "28",
+        "name": "Creator",
+        "owner": "0x8e8e...35bbfc\n\u00a0",
+        "hash": "0x0aa1...9a742e",
+        "agent_url": "https://registry.olas.network/ethereum/agents/28",
+        "owner_link": "https://etherscan.io/address/0x8e8e...35bbfc",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x0aa1...9a742e"
+    },
+    {
+        "id": "27",
+        "name": "Mike Trading Agent",
+        "owner": "0xb5c6...e7d16f\n\u00a0",
+        "hash": "0xa8f2...9ecdf5",
+        "agent_url": "https://registry.olas.network/ethereum/agents/27",
+        "owner_link": "https://etherscan.io/address/0xb5c6...e7d16f",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xa8f2...9ecdf5"
+    },
+    {
+        "id": "26",
+        "name": "valory/mech",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0x9ed2...ba86da",
+        "agent_url": "https://registry.olas.network/ethereum/agents/26",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x9ed2...ba86da"
+    },
+    {
+        "id": "25",
+        "name": "valory/trader",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0xbf77...cafae8",
+        "agent_url": "https://registry.olas.network/ethereum/agents/25",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xbf77...cafae8"
+    },
+    {
+        "id": "24",
+        "name": "eightballer/collateralisation_station",
+        "owner": "0x7fb0...5ac47b\n\u00a0",
+        "hash": "0x4d0c...3e96e1",
+        "agent_url": "https://registry.olas.network/ethereum/agents/24",
+        "owner_link": "https://etherscan.io/address/0x7fb0...5ac47b",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x4d0c...3e96e1"
+    },
+    {
+        "id": "23",
+        "name": "valory/generatooorr",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0x86d5...54aa38",
+        "agent_url": "https://registry.olas.network/ethereum/agents/23",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x86d5...54aa38"
+    },
+    {
+        "id": "22",
+        "name": "eightballer/defi_agent",
+        "owner": "0x7fb0...5ac47b\n\u00a0",
+        "hash": "0xff18...4df35c",
+        "agent_url": "https://registry.olas.network/ethereum/agents/22",
+        "owner_link": "https://etherscan.io/address/0x7fb0...5ac47b",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xff18...4df35c"
+    },
+    {
+        "id": "21",
+        "name": "algovera/valory_chat_agent",
+        "owner": "0x36f7...dc54ff\n\u00a0",
+        "hash": "0xbc90...1ab5ab",
+        "agent_url": "https://registry.olas.network/ethereum/agents/21",
+        "owner_link": "https://etherscan.io/address/0x36f7...dc54ff",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xbc90...1ab5ab"
+    },
+    {
+        "id": "20",
+        "name": "algovera/chat_completion_agent",
+        "owner": "0x36f7...dc54ff\n\u00a0",
+        "hash": "0xf30e...d52630",
+        "agent_url": "https://registry.olas.network/ethereum/agents/20",
+        "owner_link": "https://etherscan.io/address/0x36f7...dc54ff",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xf30e...d52630"
+    },
+    {
+        "id": "19",
+        "name": "eightballer/innovation_station_app",
+        "owner": "0x7fb0...5ac47b\n\u00a0",
+        "hash": "0xe19a...ca558e",
+        "agent_url": "https://registry.olas.network/ethereum/agents/19",
+        "owner_link": "https://etherscan.io/address/0x7fb0...5ac47b",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xe19a...ca558e"
+    },
+    {
+        "id": "18",
+        "name": "eightballer/liquidation_station",
+        "owner": "0x4afb...92386f\n\u00a0",
+        "hash": "0x9524...005256",
+        "agent_url": "https://registry.olas.network/ethereum/agents/18",
+        "owner_link": "https://etherscan.io/address/0x4afb...92386f",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x9524...005256"
+    },
+    {
+        "id": "17",
+        "name": "eightballer/rysk_roller",
+        "owner": "0x7fb0...5ac47b\n\u00a0",
+        "hash": "0xb10d...5943e2",
+        "agent_url": "https://registry.olas.network/ethereum/agents/17",
+        "owner_link": "https://etherscan.io/address/0x7fb0...5ac47b",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xb10d...5943e2"
+    },
+    {
+        "id": "16",
+        "name": "Postmint Root Deployer",
+        "owner": "0x1038...4daba9\n\u00a0",
+        "hash": "0x327f...34008a",
+        "agent_url": "https://registry.olas.network/ethereum/agents/16",
+        "owner_link": "https://etherscan.io/address/0x1038...4daba9",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x327f...34008a"
+    },
+    {
+        "id": "15",
+        "name": "eightballer/attestor",
+        "owner": "0x52a1...9a780f\n\u00a0",
+        "hash": "0x7952...e88d63",
+        "agent_url": "https://registry.olas.network/ethereum/agents/15",
+        "owner_link": "https://etherscan.io/address/0x52a1...9a780f",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x7952...e88d63"
+    },
+    {
+        "id": "14",
+        "name": "valory/trader",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0x226f...f2c0bf",
+        "agent_url": "https://registry.olas.network/ethereum/agents/14",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x226f...f2c0bf"
+    },
+    {
+        "id": "13",
+        "name": "valory/market_maker",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0xeeca...8180fe",
+        "agent_url": "https://registry.olas.network/ethereum/agents/13",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xeeca...8180fe"
+    },
+    {
+        "id": "12",
+        "name": "zarathustra/plantation",
+        "owner": "0x7fb0...5ac47b\n\u00a0",
+        "hash": "0xc730...e1900d",
+        "agent_url": "https://registry.olas.network/ethereum/agents/12",
+        "owner_link": "https://etherscan.io/address/0x7fb0...5ac47b",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xc730...e1900d"
+    },
+    {
+        "id": "11",
+        "name": "valory/centaurs",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0x4106...a351b3",
+        "agent_url": "https://registry.olas.network/ethereum/agents/11",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x4106...a351b3"
+    },
+    {
+        "id": "10",
+        "name": "valory/decentralized_watchtower",
+        "owner": "0x423c...917935\n\u00a0",
+        "hash": "0x2d23...b35539",
+        "agent_url": "https://registry.olas.network/ethereum/agents/10",
+        "owner_link": "https://etherscan.io/address/0x423c...917935",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x2d23...b35539"
+    },
+    {
+        "id": "9",
+        "name": "valory/mech",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0x7d0d...3d1534",
+        "agent_url": "https://registry.olas.network/ethereum/agents/9",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x7d0d...3d1534"
+    },
+    {
+        "id": "8",
+        "name": "valory/apy_estimation",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0xd97d...574fa9",
+        "agent_url": "https://registry.olas.network/ethereum/agents/8",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xd97d...574fa9"
+    },
+    {
+        "id": "7",
+        "name": "valory/oracle",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0x5663...4e540a",
+        "agent_url": "https://registry.olas.network/ethereum/agents/7",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x5663...4e540a"
+    },
+    {
+        "id": "6",
+        "name": "valory/impact_evaluator",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0x8625...d43ba0",
+        "agent_url": "https://registry.olas.network/ethereum/agents/6",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x8625...d43ba0"
+    },
+    {
+        "id": "5",
+        "name": "valory/governatooorr",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0xe8a3...4e9d68",
+        "agent_url": "https://registry.olas.network/ethereum/agents/5",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xe8a3...4e9d68"
+    },
+    {
+        "id": "4",
+        "name": "valory/keep3r_bot",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0xdff2...96dfa4",
+        "agent_url": "https://registry.olas.network/ethereum/agents/4",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xdff2...96dfa4"
+    },
+    {
+        "id": "3",
+        "name": "autonomous_fund/0.1.0",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0x1c2e...249650",
+        "agent_url": "https://registry.olas.network/ethereum/agents/3",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x1c2e...249650"
+    },
+    {
+        "id": "2",
+        "name": "elcollectooorr/elcollectooorr",
+        "owner": "0xeacb...29093c\n\u00a0",
+        "hash": "0xd4d5...81ec72",
+        "agent_url": "https://registry.olas.network/ethereum/agents/2",
+        "owner_link": "https://etherscan.io/address/0xeacb...29093c",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0xd4d5...81ec72"
+    },
+    {
+        "id": "1",
+        "name": "valory/hello_world",
+        "owner": "0xd19f...2182e7\n\u00a0",
+        "hash": "0x985b...4536b2",
+        "agent_url": "https://registry.olas.network/ethereum/agents/1",
+        "owner_link": "https://etherscan.io/address/0xd19f...2182e7",
+        "hash_link": "https://gateway.autonolas.tech/ipfs/0x985b...4536b2"
+    }
+]
