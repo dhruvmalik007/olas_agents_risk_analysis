@@ -8,3 +8,14 @@ fuzzywuzzy
 matplotlib
 plotly
 dash
+huggingface_hub
+transformers
+giskard
+guardrails-ai
+open-autonomy[all]
+open-aea-ledger-ethereum
+datasets
+open-aea[all]
+pyyaml
+browser-use
+gradio_client

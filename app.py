@@ -1,5 +1,5 @@
 import streamlit as st
-from risk_analysis_framework import RiskAnalysisFramework
+from packages.autonomy_framework.risk_analysis_framework import RiskAnalysisFramework
 import asyncio
 
 # Initialize the RiskAnalysisFramework
@@ -10,7 +10,8 @@ risk_framework.load_data()
 
 # Sidebar with options
 st.sidebar.title("Navigation")
-dashboard = st.sidebar.radio("Go to", ("Agents"))
+dashboard = st.sidebar.radio("Go to", ("Components", "Registry", "Services", "Agents", "TODO: deploy your own secure agents"))
+
 
 # Function to create a dashboard with a search bar and buttons
 def create_dashboard(dashboard_name):
